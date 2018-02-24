@@ -3,8 +3,7 @@ This repository contains the code for the method presented in the following pape
 
 **Bazrafkan, S., Javidnia, H., Lemley, J. and Corcoran, P., 2017. "Depth from Monocular Images using a Semi-Parallel Deep Neural Network (SPDNN) Hybrid Architecture". arXiv preprint arXiv:1703.03867**
 
-
-
+{empty} +
 As described in the Training section of the paper, four experiments are designed in this project:
 
 **Exp1:** Input: Left Visible Image + Pixel-wise Segmented Image. Target: Post-Processed Depth map.
@@ -15,8 +14,6 @@ As described in the Training section of the paper, four experiments are designed
 
 **Exp4:** Input: Left Visible Image. Target: Depth map.
 
-
-
 To prepare the input for training:
 
 1- Install the [Caffe SegNet](https://github.com/alexgkendall/caffe-segnet)
@@ -24,8 +21,6 @@ To prepare the input for training:
 2- Train the SegNet using [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) road scene database
 
 3- Use the trained model to segment the images of the [KITTI 2012, 2015](http://www.cvlibs.net/datasets/kitti/eval_stereo.php) dataset.
-
-
 
 To prepare the target for training:
 
