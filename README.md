@@ -2,8 +2,7 @@
 This repository contains the code for the method presented in the following paper:
 
 **Bazrafkan, S., Javidnia, H., Lemley, J. and Corcoran, P., 2017. "Depth from Monocular Images using a Semi-Parallel Deep Neural Network (SPDNN) Hybrid Architecture". arXiv preprint arXiv:1703.03867**
-+
-+
+
 
 As described in the Training section of the paper, four experiments are designed in this project:
 
